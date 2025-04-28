@@ -5,7 +5,7 @@ A lightweight, real-time AI-powered search assistant that fetches the latest inf
 
 ## Live Demo
 Try the app here:  
-[Hugging Face Space](https://huggingface.co/spaces/your-username/autoflowlite-search)
+[Hugging Face Space](https://huggingface.co/spaces/gugandroid/autoflowlite-search)
 
 ---
 
